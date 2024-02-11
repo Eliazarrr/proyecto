@@ -1,0 +1,19 @@
+1. colocaremos un precio base.
+2. buscaremos un rango de edades.
+3. con esas edades haremos un pocentaje adecuado.
+4. buscaremos un recargo para la cantidad de hijos.
+5. colocaremos recargo y recargo total .
+6. colocaremos precio final.
+7. tendremos mensajes de alerta para ingresar datos.
+8. aqui preguntaremos nombre y edad del interesado.
+9. aqui preguntaremos si esta casado.
+10. preguntaremos la edad que tiene su conyuge si estuviera casado
+11. convertiremos esos datos en numeros. 
+12. aqui preguntaremos si tiene hijos.
+13. convertiremos la cantidad de hijos a numeros.
+14. aqui calcularemos el recargo total basado a las respuestas ingresadas.
+15. Calculamos la edad del interesado por el porcentaje segun el rango de edad.
+16. calculamos la edad del o la conyuge si tuviera por el porcentaje segun el rango de edad.
+17. calculamos la cantidad de hijos o hijas si tuviera por el por el porcentaje.
+18. aqui calcularemos las cantidades obtenidas de cada recargo.
+19 finalmente sumaremos el precio base por el total de recargos.

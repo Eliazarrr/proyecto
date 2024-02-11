@@ -1,0 +1,1 @@
+Se nos presenta el caso para poder encontrar la edad de la o el conyuge asi como la cantidad de hijos que estos tuvieran, asi realizaremos la operacion con la que acontinuacion daremos paso a poder calcular la cantidad exacta de recargos que solicita el seguro sumado al precio base del mismo
